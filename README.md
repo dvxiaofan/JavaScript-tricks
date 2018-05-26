@@ -1,2 +1,3 @@
 # JavaScript-tricks
-JavaScript小技巧
+
+JavaScript学习中的一些小技巧
